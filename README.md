@@ -2,6 +2,9 @@
 
 ## This is a fork of [anirudhajith/process-wallpaper](https://github.com/anirudhajith/process-wallpaper) where I will be porting Linux-specifc code to Windows
 
+### The documentation on this page below has not been modified from original repo. This blurb will be updated if/when it works on Windows. Again, the below documentation is not for Windows :D
+
+
 Python and shell scripts which set your wallpaper to a wordcloud of the most resource-intensive processes presently running.
 
 ![](https://raw.githubusercontent.com/anirudhajith/process-wallpaper/master/screenshot.png)
